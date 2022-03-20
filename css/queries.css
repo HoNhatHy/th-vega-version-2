@@ -428,6 +428,10 @@
     font-size: 1.8rem;
   }
 
+  .product-name {
+    width: 70%;
+  }
+
   .move-left-btn {
     left: -5%;
   }
