@@ -176,12 +176,9 @@
     max-width: 75rem;
   }
 
-  body {
+  .header {
     position: relative;
     overflow-x: hidden;
-  }
-
-  .header {
     grid-template-columns: 2fr 1.5fr;
   }
 
